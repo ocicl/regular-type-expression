@@ -1,0 +1,9 @@
+* regular-type-expression
+
+Regular type expressions for Common Lisp.
+
+|---------+---------------------------------------------------------------------|
+| source  | git:https://gitlab.lrde.epita.fr/jnewton/regular-type-expression.git |
+| commit  | c302a26                                                             |
+| systems | 2d-array-test 2d-array adjuvant-test adjuvant cl-robdd-analysis-test cl-robdd-analysis cl-robdd-test cl-robdd dispatch-test dispatch lisp-types-analysis lisp-types-test lisp-types ndfa-test ndfa research rte-regexp-test rte-regexp rte-test rte scrutiny-test scrutiny |
+|---------+---------------------------------------------------------------------|
